@@ -1,0 +1,18 @@
+Will the logistic regression model or the random forest classifier perform better on the unscaled data?
+
+- I believe that the logistic regression model will perform better than the random forest classifier model because of the smaller amount of data. Also the low number of noise variables will help this regression to make a better fit. 
+
+
+Will the logistic regression model or the random forest classifier perform better on the scaled data?
+
+- I believe that the Random Forest classifier model will perform better with the scaled data. Adding more data helps the Random Forest Classifier perform better, so I think scaling the data will make this model come out on top.
+
+
+Make a comparison between predicted behavior of the models on unscaled data and the actual results.
+
+- The Random forest classifier seemed to have a better score on the unscaled data. This differed from my original prediction. 
+
+
+Make a comparison between predicted behavior of the models on scaled data and the actual results.
+
+- The logistic regression had a much better testing score than the random forest classifier for the scaled data. This also differed from my original prediction. 
